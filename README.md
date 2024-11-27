@@ -1,5 +1,5 @@
 # Discord-Ofbuscated-Token-Grabber
-Simple token grabber developped in python whit a little bit of obfuscation.
+Basicaly a simple token grabber developped in python whit some obfuscation.
 # Features
  - No data caching.
  - Transfers via Discord webhook.
